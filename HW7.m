@@ -1,4 +1,13 @@
 %HW7
+%GB comments
+1a 100
+1b 60 script to illustrate your point is missing. 
+1c  100
+1d 70 Could discretize ‘a’ over shorter intervals (a = 1:0.1:54; ) to reveal the range in behavior of the system. When you do this, there is a greater appreciation in the number of fixed points and the positioning of bifurcation points that emerge as a function the parameter ‘a’. 
+2a 100
+2b 100.
+2c 100
+Overall 90
 
 % Problem 1: Modeling population growth
 % The simplest model for a growing population assumes that each current
